@@ -1,4 +1,4 @@
-﻿namespace HalaqatSchoolSystem.Core.Mapping
+﻿namespace HalaqatManagmentSystem_API.Mapping
 {
     public static class TeachingAssignmentProfile
     {
