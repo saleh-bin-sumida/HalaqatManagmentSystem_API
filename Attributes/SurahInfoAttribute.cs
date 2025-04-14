@@ -1,5 +1,5 @@
 ﻿
-namespace HalaqatSchoolSystem.Shared.Attributes;
+namespace HalaqatManagmentSystem_API.Attributes;
 
 
 [AttributeUsage(AttributeTargets.Field, Inherited = false, AllowMultiple = false)]

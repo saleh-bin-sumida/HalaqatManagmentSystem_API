@@ -1,4 +1,4 @@
-﻿namespace HalaqatSchoolSystem.Shared.Attributes;
+﻿namespace HalaqatManagmentSystem_API.Attributes;
 
 [AttributeUsage(AttributeTargets.Field, AllowMultiple = false)]
 public class AttendanceValueAttribute(double value) : Attribute
