@@ -1,0 +1,13 @@
+﻿global using HalaqatManagmentSystem_API;
+global using HalaqatManagmentSystem_API.Consts;
+global using HalaqatManagmentSystem_API.Data;
+global using HalaqatManagmentSystem_API.Dtos;
+global using HalaqatManagmentSystem_API.Entities;
+global using HalaqatManagmentSystem_API.Enums;
+global using HalaqatManagmentSystem_API.Extensions;
+global using HalaqatManagmentSystem_API.Models;
+global using HalaqatManagmentSystem_API.Mapping;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using System.ComponentModel.DataAnnotations;
+global using System.Linq.Expressions;
