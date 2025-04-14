@@ -1,4 +1,4 @@
-﻿using HalaqatSchoolSystem.Shared.Attributes;
+﻿using HalaqatManagmentSystem_API.Attributes;
 
 namespace HalaqatManagmentSystem_API.Enums;
 
