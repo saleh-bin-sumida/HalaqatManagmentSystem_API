@@ -10,7 +10,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<UnitOfWork>();
 
-var connectionString = builder.Configuration.GetConnectionString("LocalConnection")
+var connectionString = builder.Configuration.GetConnectionString("RemoteConnection")
 ?? throw new InvalidOperationException("No Connection String Was Found");
 
 
